@@ -36,19 +36,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
-
-/*class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      decoration: BoxDecoration(color: RandomColor.next()),
-      child: Center(
-        child: Text('I want a job at Solid Software',
-            textDirection: TextDirection.ltr,
-            style: TextStyle(fontSize: 20.0, color: Colors.black87)),
-      ),
-    );
-  }
-}
-*/
